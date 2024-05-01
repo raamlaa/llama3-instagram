@@ -1,4 +1,4 @@
-# CrewAI & llama 3 : Instagram Description Generator
+# CrewAI & llama 3 : Instagram Post Generator
 building an Instagram posting crew that generates image descriptions and text for Instagram using Llama3. Using CrewAI framework to automate the process of coming up with an instagram post. 
 CrewAI orchestrates autonomous AI agents, enabling them to collaborate and execute complex tasks efficiently.
 </br>
